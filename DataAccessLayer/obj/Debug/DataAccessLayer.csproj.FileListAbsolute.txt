@@ -1,0 +1,9 @@
+C:\Users\enes\source\repos\LessonRegistryWebApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\enes\source\repos\LessonRegistryWebApp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\enes\source\repos\LessonRegistryWebApp\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\enes\source\repos\LessonRegistryWebApp\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\enes\source\repos\LessonRegistryWebApp\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\enes\source\repos\LessonRegistryWebApp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\enes\source\repos\LessonRegistryWebApp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\enes\source\repos\LessonRegistryWebApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\enes\source\repos\LessonRegistryWebApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

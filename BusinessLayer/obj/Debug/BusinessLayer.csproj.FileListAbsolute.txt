@@ -1,0 +1,11 @@
+C:\Users\enes\source\repos\LessonRegistryWebApp\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\enes\source\repos\LessonRegistryWebApp\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\enes\source\repos\LessonRegistryWebApp\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\enes\source\repos\LessonRegistryWebApp\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\enes\source\repos\LessonRegistryWebApp\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\enes\source\repos\LessonRegistryWebApp\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\enes\source\repos\LessonRegistryWebApp\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\enes\source\repos\LessonRegistryWebApp\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\enes\source\repos\LessonRegistryWebApp\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\enes\source\repos\LessonRegistryWebApp\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\enes\source\repos\LessonRegistryWebApp\BusinessLayer\obj\Debug\BusinessLayer.pdb
